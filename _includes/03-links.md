@@ -1,1 +1,1 @@
-[twitter] [twitter.com]
+[twitter] (twitter.com)
